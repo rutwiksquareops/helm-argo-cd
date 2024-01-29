@@ -5,7 +5,7 @@
 
 replicaCount: 1
 image:
-  repository: rutwiksquareops/votingapp-resul
+  repository: rutwiksquareops/votingapp-result
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "6"
