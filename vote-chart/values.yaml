@@ -4,10 +4,10 @@
 
 replicaCount: 1
 image:
-  repository: rutwiksquareops/votingapp-vote
+  repository: mona1712/vote-app-vote
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "17"
+  tag: "8"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
