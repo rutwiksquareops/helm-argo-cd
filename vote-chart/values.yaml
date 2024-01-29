@@ -7,7 +7,7 @@ image:
   repository: rutwiksquareops/votingapp-vote
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "5"
+  tag: "17"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
