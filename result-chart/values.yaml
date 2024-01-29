@@ -8,7 +8,7 @@ image:
   repository: mona1712/vote-app-result
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "17"
+  tag: "6"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
